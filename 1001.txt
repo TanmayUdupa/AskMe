@@ -1,0 +1,9 @@
+1005 102 101 0
+Why do you think so?
+Just Google. There is an answer on Quora.
+1006 103 101 0
+What about python?
+
+1008 102 101 1
+Why so late in reply?
+Very sorry for that
